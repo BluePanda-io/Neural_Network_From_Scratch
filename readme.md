@@ -10,7 +10,7 @@ Building a Neural Network from Zero without a FrameWork like TensorFlow or Pytor
 A Neural Network from scratch without the help of a FrameWork. This was an amazing expirience, it was really powerfull to expirience all the difficulties of building a neural network from scratch you needed to really uderstand deply the purpose of neural networks and how they actually work 
 
 ## Results of the Project 
-<img src="Images/loss.png" width="400">
+<img src="img/loss.png" width="400">
 
-<img src="Images/results.png" width="400">
+<img src="img/results.png" width="400">
 
