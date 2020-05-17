@@ -1,21 +1,16 @@
-# Image Processing Masks-Convolution
+# Neural Network From Scratch
 
-Developing from Scratch Filters that change Images and apply them via Convolution With the purpose to Uderstand the Basics of Image Processing - Originally developed 04/05/2018
+Building a Neural Network from Zero without a FrameWork like TensorFlow or Pytorch - Originally developed 25/01/2019
+
+### You can just open the Jupyter Notebook and you will find everything there 
 
 
 
 ## In this project it was developed 
-1. A function 
+A Neural Network from scratch without the help of a FrameWork. This was an amazing expirience, it was really powerfull to expirience all the difficulties of building a neural network from scratch you needed to really uderstand deply the purpose of neural networks and how they actually work 
 
 ## Results of the Project 
-<img src="Images/1_GrayScaleAndRGBtoBluredImages.png" width="600">
+<img src="Images/loss.png" width="400">
 
-## What I learned from this Project
+<img src="Images/results.png" width="400">
 
-## What was the project difficulties 
-
-## My solutions to the difficulties
-
-## Notable Features
-
-## Technology Used 
