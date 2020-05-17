@@ -12,5 +12,5 @@ A Neural Network from scratch without the help of a FrameWork. This was an amazi
 ## Results of the Project 
 <img src="img/loss.png" width="400">
 
-<img src="img/results.png" width="400">
+<img src="img/results.png" width="500">
 
